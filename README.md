@@ -33,7 +33,7 @@ Accédez directement aux dossiers et documents :
  ┃ &nbsp;&nbsp;&nbsp;&nbsp;→ **Logiciels utilisés** : RStudio.  
 
  ┣ 📂 **[`Webdesign_infographies`](https://github.com/marieexb/Portfolio/tree/main/Webdesign_infographies)**  
- ┃ ┣ 📄 **[`Infographie Données démographiques à Paris.pdf`](https://github.com/marieexb/Portfolio/blob/main/Infographie%20Données%20démographiques%20à%20Paris.pdf)**  
+ ┃ ┣ 📄 **[`Infographie Données démographiques à Paris.png`](https://github.com/marieexb/Portfolio/blob/main/Infographie%20Données%20démographiques%20à%20Paris.png)**  
  ┃ &nbsp;&nbsp;&nbsp;&nbsp;→ **Contexte** : Infographie représentant les évolutions récentes des données démographiques de Paris.  
  ┃ &nbsp;&nbsp;&nbsp;&nbsp;→ **Logiciel utilisé** : Power Point, Excel.  
  ┃ ┣ 📄 **[`Book Slow Tourisme 2018-2019.pdf`](https://github.com/marieexb/Portfolio/blob/main/Webdesign_infographies/Book%20Slow%20Tourisme%202018-2019.pdf)**  
